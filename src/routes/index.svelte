@@ -1,17 +1,15 @@
-<main>
-	<header>
-		<div class="title">
-			<h1>Lisa-Anne Wooldridge</h1>
-		</div>
-		<nav>
-			<ul>
-                <li><a href="/">Home</a></li>
-                <li><a href="/books">Books</a></li>
-                
-            </ul>
-		</nav>
-	</header>
-	<div class="container" />
 
-	<footer />
-</main>
+<div class="la-index">
+	<div class="la-lli">
+		<img src="/lli.png" alt="live life illuminated"/>
+	</div>
+	
+</div>
+<style>
+.la-lli{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+</style>
