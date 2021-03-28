@@ -1,7 +1,7 @@
 <main>
 	<header>
 		<div class="title">
-			<h1>Lisa-Anne Wooldridge</h1>
+			<h1>Lisa-Anne Wooldridge -- books</h1>
 		</div>
 		<nav>
 			<ul>
@@ -12,6 +12,8 @@
 		</nav>
 	</header>
 	<div class="container" />
+[[ book content here]]
+[[ use bulma columns]]
 
 	<footer />
 </main>
