@@ -1,5 +1,5 @@
 <div class="la-header">
-    <h1><img src="law001.png" alt="lisa-anne-wooldridge"/></h1>
+    <h1><img src="law002.png" alt="lisa-anne-wooldridge"/></h1>
 </div>
 <style>
 .la-header {
