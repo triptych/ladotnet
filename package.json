@@ -9,6 +9,7 @@
 		"format": "prettier --write ."
 	},
 	"devDependencies": {
+		"@fortawesome/fontawesome-free": "^5.15.1",
 		"@sveltejs/adapter-netlify": "next",
 		"@sveltejs/adapter-node": "next",
 		"@sveltejs/kit": "next",
