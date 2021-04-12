@@ -26,7 +26,7 @@
 			</a>
 		</li>
         <li>
-			<a href="https://lisaannebooks1/">
+			<a href="https://twitter.com/LisaAnneBooks1">
 				<span class="icon has-text-info">
 					<i class="fab fa-twitter-square" />
 				</span>
