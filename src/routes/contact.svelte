@@ -41,7 +41,9 @@
    
 </div>
 <style lang="scss">
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quintessential&display=swap');
+
+
     .la-contact {
         background-color: #b9e2ff;
         padding: 16px;
@@ -51,12 +53,11 @@
         ul {
             padding: 18px;
             li {
-                font-size: 2em;
-                font-family: fantasy;
+                
             }
         }
         blockquote {
-            font-family: 'Pacifico', cursive;
+            font-family: 'Quintessential', cursive;
             font-size: 4em;
             text-align: center;
         }
