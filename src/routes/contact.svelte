@@ -24,6 +24,11 @@
                     </li>
                 </ul>
             </div>
+            <div>
+                <blockquote>"Live Life Illuminated!"</blockquote>
+                
+
+            </div>
             
         </div>
         <div class="column">
@@ -36,6 +41,7 @@
    
 </div>
 <style lang="scss">
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Pacifico&display=swap');
     .la-contact {
         background-color: #b9e2ff;
         padding: 16px;
@@ -46,8 +52,13 @@
             padding: 18px;
             li {
                 font-size: 2em;
-
+                font-family: fantasy;
             }
+        }
+        blockquote {
+            font-family: 'Pacifico', cursive;
+            font-size: 4em;
+            text-align: center;
         }
     }
 </style>
