@@ -25,21 +25,21 @@
 				</span>
 			</a>
 		</li>
-        <li>
+		<li>
 			<a href="https://twitter.com/LisaAnneBooks1">
 				<span class="icon has-text-info">
 					<i class="fab fa-twitter-square" />
 				</span>
 			</a>
 		</li>
-        <li>
+		<li>
 			<a href="https://www.pinterest.com/1lisaanne">
 				<span class="icon has-text-info">
 					<i class="fab fa-pinterest-square" />
 				</span>
 			</a>
 		</li>
-        <li>
+		<li>
 			<a href="https://www.amazon.com/Lisa-Anne-Wooldridge/e/B08BF3NWNG">
 				<span class="icon has-text-info">
 					<i class="fab fa-amazon" />
@@ -51,10 +51,17 @@
 
 <style lang="scss">
 	.la-social {
-        position: absolute;
-        right: 8px;
-        li {
-		cursor: pointer;
-		margin: 8px;
-	}}
+		position: absolute;
+		right: 8px;
+		li {
+			cursor: pointer;
+			margin: 8px;
+		}
+	}
+	@media only screen and (max-width: 600px) {
+
+		.la-social{
+			display: none;
+		}
+	}
 </style>

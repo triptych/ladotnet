@@ -22,5 +22,13 @@
         }
     }
 }
+@media only screen and (max-width: 600px) {
+    .la-about{
+        .aboutme{
+            flex-direction: column;
+        }
+    }
+
+}
 
 </style>
