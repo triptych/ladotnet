@@ -28,7 +28,7 @@
         </div>
         <div class="column">
             <div class="contactright">
-                <img src="static\girl.jpg" alt="">
+                <img src="/girl.jpg" alt="">
             </div>
             
         </div>

@@ -1,6 +1,6 @@
 <div class="la-about">
     <div class="aboutme">
-        <img src="static\mom-resize2_orig.jpg" alt=""/>
+        <img src="/mom-resize2_orig.jpg" alt=""/>
         <div class="content">
             <h2>Lisa-Anne Wooldridge</h2>
             <p>Lisa-Anne Wooldridge is an author and speaker who resides in the San Francisco Bay Area with her husband and three children. She is a serial contributor to anthologies, a former newspaper columnist, and is perpetually at work on a new novel. She is inspired by stained glass windows, illuminated manuscripts, and living where "the mountains meet the redwoods and the redwoods meet the sea." ​</p>
