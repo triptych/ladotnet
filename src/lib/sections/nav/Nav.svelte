@@ -33,6 +33,8 @@
 			<a class="navbar-item" href="books"> Books </a>
 			<a class="navbar-item" href="about"> About </a>
 			<a class="navbar-item" href="contact"> Contact </a>
+      <a class="navbar-item" href="newsletter"> Newsletter </a>
+
 			<!--
         <div class="navbar-item has-dropdown is-hoverable">
           <a class="navbar-link">

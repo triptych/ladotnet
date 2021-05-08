@@ -4,6 +4,7 @@
 		<img src="/lli800x600.png" alt="live life illuminated"/>
 	</div>
 	
+	
 </div>
 <style lang="scss">
 .la-lli{
