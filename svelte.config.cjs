@@ -2,6 +2,8 @@ const sveltePreprocess = require('svelte-preprocess');
 const node = require('@sveltejs/adapter-node');
 const netlify = require('@sveltejs/adapter-netlify');
 const pkg = require('./package.json');
+//import adapter from '@sveltejs/adapter-static';
+//const static = require('@sveltejs/adapter-static');
 
 /** @type {import('@sveltejs/kit').Config} */
 module.exports = {
